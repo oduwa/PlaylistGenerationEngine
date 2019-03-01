@@ -1,0 +1,10 @@
+python_speech_features
+pydub
+scikit-learn
+demjson
+fudge
+soundcloud
+clint
+mutagen
+resampy
+#sudo pip install  --upgrade --ignore-installed [PACKAGE]
